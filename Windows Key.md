@@ -1,6 +1,6 @@
 ## Products List
 
-| Windows 10 Version                                        | Product Key                   |
+| Windows Version                                        | Product Key                   |
 |:-------------------------------------------------------|:------------------------------|
 | Windows 10 Professional                                | CT8ND-CW9CQ-QRK6G-YX9JG-J2QGY |
 | Windows 10 RTM Professional Volume:MAK                 | 36VRN-YBT32-WPRM6-C9YDV-M4G6Y |
